@@ -1,4 +1,4 @@
-# Sistema-de-Monitoramento-de-trinco
+# Sistema-de-Monitoramento-de-trinco - TrancaSegura
 Projeto de um sistema inteligente e econômico de verificação de trancamento de portas, utilizando a placa NodeMCU ESP8266, sensor magnético, buzzer e dois LEDs indicadores. Este projeto propõe o desenvolvimento de um sistema de monitoramento simplificado para trancas de portas, utilizando a placa NodeMCU ESP8266. Através de um sensor magnético, dois LEDs indicadores (para sinalizar se a porta está trancada ou aberta) e um buzzer sonoro, a proposta visa fornecer uma solução acessível, de fácil implementação e baixo custo.
 
 
