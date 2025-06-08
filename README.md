@@ -11,5 +11,6 @@ Facilidade de Instalação: Projetar o sistema de forma compacta e acessível, p
 Acessibilidade e Apoio Psicológico: Oferecer um recurso útil para pessoas com transtornos como TOC, TDAH, TEA (Transtorno do Espectro Autista) ou cuidadores de idosos com Alzheimer, trazendo mais autonomia, conforto emocional e segurança no dia a dia.
 
 AUTORES: Alexandra Moura, Isadora Nascimento, Luis Gustavo, Leonardo Mendes
+
 CENTRO UNIVERSITARIO UNIRUY 
 PROFESSOR: HELENO CARDOSO 
